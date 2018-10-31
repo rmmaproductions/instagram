@@ -3,10 +3,18 @@
 
 from instabot import InstaBot
 
-bot = InstaBot(login="rmma_productions", password="PASSWORD_AQUI",
+bot = InstaBot(login="rmma_productions", password="Dilfus87!",
                like_per_day=1800, # How many likes set bot in one day.
                comments_per_day=0,
-	          tag_list=['manchester','brighton','londonmusic','roundhouse','staplescenter','o2','madisonsquaregarden','musicfestival','musician','musicbox','musicvideos','recordingartist','manchesterarena','theforum','rodlaverarena','barclayscenter','berlin','london','madrid','barcelona','miami','losangeles', 'paris','tokyo','amsterdam','oslo','selfie','california','newyork', 'music', 'spotify','spotifypremium','concert','liveshow', 'liveperformance', 'musicianlife', 'musicians', 'musiclife', 'musiclovers','guitar','piano','guitarist','pianist','violin','violinist','drummer','dj','rockstar','rock','pop','singer','singersongwriter','cover','vocalist','vocals','hiphop', 'playlist','songs','gig','liveshow','spotifyplaylist','edm','edmlifestyle'],
+	          tag_list=['rap','hiphop','music','underground','fresh','hot','trap','musicfestival','musician','musicb  
+ox','musicvideos','recordingartist','rimasebatidas','2pac','Tupac','187combo','lisbon','vibes','raw',  
+'hiphopculture','soundcloud','independent',  
+'paris','tokyo','amsterdam','japan','selfie','california','newyork', 'musicproduction',  
+'spotify','spotifypremium','concert','liveshow', 'liveperformance', 'musicianlife', 'musicians',  
+'musiclife',  
+'musiclovers','bass','scary','fire','gangstarap','sounds','label','musicproducer','dj','rockstar','rapst  
+ar','singer','singersongwriter','cover','portugal','vocals',  
+'playlist','songs','gig','liveshow','spotifyplaylist','edm','lisbon'],
                max_like_for_one_tag=5, # maximum likes on one tag in a row
                media_max_like=5, # Don't like if media have more than n likes.
                media_min_like=0, # Don't like if media have less than n likes.
